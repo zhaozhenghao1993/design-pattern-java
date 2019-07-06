@@ -1,5 +1,15 @@
 # 享元模式
 
+[实现对象的复用——享元模式（一）：围棋棋子的设计，享元模式概述（上）](https://blog.csdn.net/lovelion/article/details/7667781)
+
+[实现对象的复用——享元模式（二）：享元模式概述（下）](https://blog.csdn.net/lovelion/article/details/7667810)
+
+[实现对象的复用——享元模式（三）：围棋棋子的享元模式解决方案](https://blog.csdn.net/lovelion/article/details/7667839)
+
+[实现对象的复用——享元模式（四）：带外部状态的围棋棋子解决方案](https://blog.csdn.net/lovelion/article/details/7667860)
+
+[实现对象的复用——享元模式（五）：单纯享元模式和复合享元模式，关于享元模式的几点补充，享元模式总结](https://blog.csdn.net/lovelion/article/details/7667901)
+
 ```aidl
     享元模式(Flyweight Pattern)：运用共享技术有效地支持大量细粒度对象的复用。
 系统只使用少量的对象，而这些对象都很相似，状态变化很小，可以实现对象的多次复用。

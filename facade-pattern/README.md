@@ -1,5 +1,11 @@
 # 外观模式
 
+[深入浅出外观模式（一）：外观模式概述，外观模式结构与实现](https://blog.csdn.net/lovelion/article/details/8258121)
+
+[深入浅出外观模式（二）：外观模式应用实例（文件加密模块）](https://blog.csdn.net/lovelion/article/details/8259705)
+
+[深入浅出外观模式（三）：抽象外观类，外观模式效果与适用场景](https://blog.csdn.net/lovelion/article/details/8259789)
+
 ```aidl
     外观模式：为子系统中的一组接口提供一个统一的入口。外观模式定义了一个高层接口，这个接口使得这一子系统更加容易使用。
     

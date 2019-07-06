@@ -1,5 +1,13 @@
 # 原型模式
 
+[对象的克隆——原型模式（一）：大同小异的工作周报，原型模式概述](https://blog.csdn.net/lovelion/article/details/7424559)
+
+[对象的克隆——原型模式（二）：工作周报的原型模式解决方案](https://blog.csdn.net/lovelion/article/details/7424594)
+
+[对象的克隆——原型模式（三）：带附件的周报【浅克隆，深克隆】](https://blog.csdn.net/lovelion/article/details/7424620)
+
+[对象的克隆——原型模式（四）：原型管理器的引入和实现，原型模式总结](https://blog.csdn.net/lovelion/article/details/7424623)
+
 ```aidl
     原型模式(Prototype  Pattern)：使用原型实例指定创建对象的种类，并且通过拷贝这些原型创建新的对象。
 原型模式是一种对象创建型模式。

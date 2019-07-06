@@ -1,5 +1,13 @@
 # 策略模式
 
+[算法的封装与切换——策略模式（一）：电影票打折方案](https://blog.csdn.net/lovelion/article/details/7818983)
+
+[算法的封装与切换——策略模式（二）：策略模式概述](https://blog.csdn.net/lovelion/article/details/7819136)
+
+[算法的封装与切换——策略模式（三）：电影票打折方案的策略模式解决方案](https://blog.csdn.net/lovelion/article/details/7819216)
+
+[算法的封装与切换——策略模式（四）：策略模式的两个典型应用，策略模式总结](https://blog.csdn.net/lovelion/article/details/7819266)
+
 ```aidl
     策略模式(Strategy Pattern)：定义一系列算法类，将每一个算法封装起来，并让它们可以相互替换，
 策略模式让算法独立于使用它的客户而变化，也称为政策模式(Policy)。策略模式是一种对象行为型模式。

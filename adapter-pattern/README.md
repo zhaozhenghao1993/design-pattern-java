@@ -1,5 +1,13 @@
 # 适配器模式
 
+[不兼容结构的协调——适配器模式（一）：没有源码的算法库，适配器模式概述](https://blog.csdn.net/lovelion/article/details/8624325)
+
+[不兼容结构的协调——适配器模式（二）：没有源码的算法库的适配器模式解决方案](https://blog.csdn.net/lovelion/article/details/8624412)
+
+[不兼容结构的协调——适配器模式（三）：类适配器，双向适配器](https://blog.csdn.net/lovelion/article/details/8624428)
+
+[不兼容结构的协调——适配器模式（四）：缺省适配器，适配器模式总结](https://blog.csdn.net/lovelion/article/details/8624633)
+
 ```aidl
      适配器模式(Adapter Pattern)：将一个接口转换成客户希望的另一个接口，使接口不兼容的那些类可以一起工作，其别名为包装器(Wrapper)。
 适配器模式既可以作为类结构型模式，也可以作为对象结构型模式。

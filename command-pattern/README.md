@@ -1,5 +1,17 @@
 # 命令模式
 
+[请求发送者与接收者解耦——命令模式（一）：自定义功能键，命令模式概述](https://blog.csdn.net/lovelion/article/details/8796736)
+
+[请求发送者与接收者解耦——命令模式（二）：自定义功能键的命令模式解决方案](https://blog.csdn.net/lovelion/article/details/8806049)
+
+[请求发送者与接收者解耦——命令模式（三）：命令队列的实现](https://blog.csdn.net/lovelion/article/details/8806239)
+
+[请求发送者与接收者解耦——命令模式（四）：撤销操作的简单实现](https://blog.csdn.net/lovelion/article/details/8806509)
+
+[请求发送者与接收者解耦——命令模式（五）：请求日志](https://blog.csdn.net/lovelion/article/details/8806643)
+
+[请求发送者与接收者解耦——命令模式（六）：宏命令，命令模式总结](https://blog.csdn.net/lovelion/article/details/8806677)
+
 ```aidl
     命令模式(Command Pattern)：将一个请求封装为一个对象，从而让我们可用不同的请求对客户进行参数化；
 对请求排队或者记录请求日志，以及支持可撤销的操作。命令模式是一种对象行为型模式，其别名为动作(Action)模式或事务(Transaction)模式。

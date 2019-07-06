@@ -1,5 +1,15 @@
 # 抽象工厂模式
 
+[工厂三兄弟之抽象工厂模式（一）：界面皮肤库的初始设计](https://blog.csdn.net/lovelion/article/details/9319181)
+
+[工厂三兄弟之抽象工厂模式（二）：产品等级结构与产品族](https://blog.csdn.net/lovelion/article/details/9319323)
+
+[工厂三兄弟之抽象工厂模式（三）：抽象工厂模式概述](https://blog.csdn.net/lovelion/article/details/9319423)
+
+[工厂三兄弟之抽象工厂模式（四）：界面皮肤库的抽象工厂模式解决方案](https://blog.csdn.net/lovelion/article/details/9319481)
+
+[工厂三兄弟之抽象工厂模式（五）：“开闭原则”的倾斜性，抽象工厂模式总结](https://blog.csdn.net/lovelion/article/details/9319571)
+
 ```aidl
      抽象工厂模式(Abstract Factory Pattern)：提供一个创建一系列相关或相互依赖对象的接口，而无须指定它们具体的类。
 抽象工厂模式又称为Kit模式，它是一种对象创建型模式。

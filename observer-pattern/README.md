@@ -1,5 +1,17 @@
 # 观察者模式
 
+[对象间的联动——观察者模式（一）：多人联机对战游戏的设计](https://blog.csdn.net/lovelion/article/details/7720232)
+
+[对象间的联动——观察者模式（二）：观察者模式概述](https://blog.csdn.net/lovelion/article/details/7720382)
+
+[对象间的联动——观察者模式（三）：多人联机对战游戏的观察者模式解决方案](https://blog.csdn.net/lovelion/article/details/7720490)
+
+[对象间的联动——观察者模式（四）：JDK对观察者模式的支持](https://blog.csdn.net/lovelion/article/details/7720507)
+
+[对象间的联动——观察者模式（五）：观察者模式与Java事件处理](https://blog.csdn.net/lovelion/article/details/7720522)
+
+[对象间的联动——观察者模式（六）：观察者模式与MVC，观察者模式总结](https://blog.csdn.net/lovelion/article/details/7720537)
+
 ```aidl
     观察者模式(Observer Pattern)：定义对象之间的一种一对多依赖关系，使得每当一个对象状态发生改变时，
 其相关依赖对象皆得到通知并被自动更新。观察者模式的别名包括发布-订阅（Publish/Subscribe）模式、

@@ -1,5 +1,13 @@
 # 职责链模式
 
+[请求的链式处理——职责链模式（一）：采购单的分级审批](https://blog.csdn.net/lovelion/article/details/7420891)
+
+[请求的链式处理——职责链模式（二）：职责链模式概述](https://blog.csdn.net/lovelion/article/details/7420893)
+
+[请求的链式处理——职责链模式（三）：采购单分级审批的职责链模式解决方案](https://blog.csdn.net/lovelion/article/details/7420898)
+
+[请求的链式处理——职责链模式（四）：纯与不纯的职责链模式，职责链模式总结](https://blog.csdn.net/lovelion/article/details/7420902)
+
 ```aidl
     职责链模式(Chain of Responsibility  Pattern)：避免请求发送者与接收者耦合在一起，让多个对象都有可能接收请求，
 将这些对象连接成一条链，并且沿着这条链传递请求，直到有对象处理它为止。职责链模式是一种对象行为型模式。

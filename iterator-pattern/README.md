@@ -1,5 +1,17 @@
 # 迭代器模式
 
+[遍历聚合对象中的元素——迭代器模式（一）：销售管理系统中数据的遍历](https://blog.csdn.net/lovelion/article/details/9992005)
+
+[遍历聚合对象中的元素——迭代器模式（二）：迭代器模式概述](https://blog.csdn.net/lovelion/article/details/9992243)
+
+[遍历聚合对象中的元素——迭代器模式（三）：销售管理系统中数据的遍历的迭代器模式解决方案](https://blog.csdn.net/lovelion/article/details/9992679)
+
+[遍历聚合对象中的元素——迭代器模式（四）：使用内部类实现迭代器](https://blog.csdn.net/lovelion/article/details/9992731)
+
+[遍历聚合对象中的元素——迭代器模式（五）：JDK内置迭代器的使用](https://blog.csdn.net/lovelion/article/details/9992799)
+
+[遍历聚合对象中的元素——迭代器模式（六）：迭代器模式总结](https://blog.csdn.net/lovelion/article/details/9992931)
+
 ```aidl
     迭代器模式(Iterator Pattern)：提供一种方法来访问聚合对象，而不用暴露这个对象的内部表示，
 其别名为游标(Cursor)。迭代器模式是一种对象行为型模式。

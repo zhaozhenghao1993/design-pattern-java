@@ -1,5 +1,11 @@
 # 模板方法模式
 
+[模板方法模式深度解析（一）：模板方法模式概述，模板方法模式结构与实现](https://blog.csdn.net/lovelion/article/details/8299794)
+
+[模板方法模式深度解析（二）：模板方法模式应用实例（银行利息计算模块）](https://blog.csdn.net/lovelion/article/details/8299863)
+
+[模板方法模式深度解析（三）：钩子方法的使用，模板方法模式效果与适用场景](https://blog.csdn.net/lovelion/article/details/8299927)
+
 ```aidl
     模板方法模式(Template Method Pattern)：定义一个操作中算法的框架，而将一些步骤延迟到子类中。
 模板方法模式使得子类可以不改变一个算法的结构即可重定义该算法的某些特定步骤。

@@ -1,5 +1,15 @@
 # 备忘录模式
 
+[撤销功能的实现——备忘录模式（一）：可悔棋的中国象棋](https://blog.csdn.net/lovelion/article/details/7526740)
+
+[撤销功能的实现——备忘录模式（二）：备忘录模式概述](https://blog.csdn.net/lovelion/article/details/7526747)
+
+[撤销功能的实现——备忘录模式（三）：中国象棋的备忘录模式解决方案](https://blog.csdn.net/lovelion/article/details/7526755)
+
+[撤销功能的实现——备忘录模式（四）：实现多次撤销](https://blog.csdn.net/lovelion/article/details/7526756)
+
+[撤销功能的实现——备忘录模式（五）：再谈备忘录的封装，备忘录模式总结](https://blog.csdn.net/lovelion/article/details/7526759)
+
 ```aidl
     备忘录模式(Memento Pattern)：在不破坏封装的前提下，捕获一个对象的内部状态，并在该对象之外保存这个状态，
 这样可以在以后将对象恢复到原先保存的状态。它是一种对象行为型模式，其别名为Token。

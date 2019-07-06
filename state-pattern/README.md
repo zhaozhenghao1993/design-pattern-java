@@ -1,5 +1,17 @@
 # 状态模式
 
+[处理对象的多种状态及其相互转换——状态模式（一）：银行系统中的账户类设计](https://blog.csdn.net/lovelion/article/details/8522982)
+
+[处理对象的多种状态及其相互转换——状态模式（二）：状态模式概述](https://blog.csdn.net/lovelion/article/details/8523062)
+
+[处理对象的多种状态及其相互转换——状态模式（三）：账户类的状态模式解决方案](https://blog.csdn.net/lovelion/article/details/8523083)
+
+[处理对象的多种状态及其相互转换——状态模式（四）：共享状态的实现](https://blog.csdn.net/lovelion/article/details/8523105)
+
+[处理对象的多种状态及其相互转换——状态模式（五）：使用环境类实现状态转换](https://blog.csdn.net/lovelion/article/details/8523130)
+
+[处理对象的多种状态及其相互转换——状态模式（六）：状态模式总结](https://blog.csdn.net/lovelion/article/details/8523162)
+
 ```aidl
     状态模式(State Pattern)：允许一个对象在其内部状态改变时改变它的行为，对象看起来似乎修改了它的类。
 其别名为状态对象(Objects for States)，状态模式是一种对象行为型模式。

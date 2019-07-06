@@ -1,5 +1,13 @@
 # 装饰模式
 
+[扩展系统功能——装饰模式（一）：图形界面构件库的设计](https://blog.csdn.net/lovelion/article/details/7424685)
+
+[扩展系统功能——装饰模式（二）：装饰模式概述](https://blog.csdn.net/lovelion/article/details/7425849)
+
+[扩展系统功能——装饰模式（三）：图形界面构件库的装饰模式解决方案](https://blog.csdn.net/lovelion/article/details/7425861)
+
+[扩展系统功能——装饰模式（四）：透明装饰模式与半透明装饰模式，装饰模式注意事项，装饰模式总结](https://blog.csdn.net/lovelion/article/details/7425873)
+
 ```aidl
     装饰模式(Decorator Pattern)：动态地给一个对象增加一些额外的职责，就增加对象功能来说，
 装饰模式比生成子类实现更为灵活。装饰模式是一种对象结构型模式。

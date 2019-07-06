@@ -1,5 +1,13 @@
 # 桥接模式
 
+[处理多维度变化——桥接模式（一）：跨平台图像浏览系统](https://blog.csdn.net/lovelion/article/details/7464183)
+
+[处理多维度变化——桥接模式（二）：桥接模式概述](https://blog.csdn.net/lovelion/article/details/7464195)
+
+[处理多维度变化——桥接模式（三）：跨平台图像浏览系统的桥接模式解决方案](https://blog.csdn.net/lovelion/article/details/7464204)
+
+[处理多维度变化——桥接模式（四）：适配器模式与桥接模式的联用，桥接模式总结](https://blog.csdn.net/lovelion/article/details/7464208)
+
 ```aidl
      桥接模式(Bridge Pattern)：将抽象部分与它的实现部分分离，使它们都可以独立地变化。
 它是一种对象结构型模式，又称为柄体(Handle and Body)模式或接口(Interface)模式。

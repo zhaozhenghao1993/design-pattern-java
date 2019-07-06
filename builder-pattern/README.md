@@ -1,5 +1,11 @@
 # 建造者模式
 
+[复杂对象的组装与创建——建造者模式（一）：游戏角色设计，建造者模式概述](https://blog.csdn.net/lovelion/article/details/7426015)
+
+[复杂对象的组装与创建——建造者模式（二）：游戏角色设计的建造者模式解决方案](https://blog.csdn.net/lovelion/article/details/7426323)
+
+[复杂对象的组装与创建——建造者模式（三）：关于Director的进一步讨论，建造者模式总结](https://blog.csdn.net/lovelion/article/details/7426855)
+
 ```aidl
     建造者模式(Builder Pattern)：将一个复杂对象的构建与它的表示分离，
 使得同样的构建过程可以创建不同的表示。建造者模式是一种对象创建型模式。

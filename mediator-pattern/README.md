@@ -1,5 +1,15 @@
 # 中介者模式
 
+[协调多个对象之间的交互——中介者模式（一）：客户信息管理窗口的初始设计](https://blog.csdn.net/lovelion/article/details/8482952)
+
+[协调多个对象之间的交互——中介者模式（二）：中介者模式概述](https://blog.csdn.net/lovelion/article/details/8483005)
+
+[协调多个对象之间的交互——中介者模式（三）：客户信息管理窗口的中介者模式解决方案](https://blog.csdn.net/lovelion/article/details/8483031)
+
+[协调多个对象之间的交互——中介者模式（四）：中介者与同事类的扩展](https://blog.csdn.net/lovelion/article/details/8483081)
+
+[协调多个对象之间的交互——中介者模式（五）：中介者模式总结](https://blog.csdn.net/lovelion/article/details/8483151)
+
 ```aidl
     中介者模式(Mediator Pattern)：用一个中介对象（中介者）来封装一系列的对象交互，
 中介者使各对象不需要显式地相互引用，从而使其耦合松散，而且可以独立地改变它们之间的交互。

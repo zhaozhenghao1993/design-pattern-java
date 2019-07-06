@@ -1,5 +1,17 @@
 # 解释器模式
 
+[自定义语言的实现——解释器模式（一）：机器人控制程序](https://blog.csdn.net/lovelion/article/details/7713567)
+
+[自定义语言的实现——解释器模式（二）：文法规则和抽象语法树](https://blog.csdn.net/lovelion/article/details/7713578)
+
+[自定义语言的实现——解释器模式（三）：解释器模式概述](https://blog.csdn.net/lovelion/article/details/7713589)
+
+[自定义语言的实现——解释器模式（四）：机器人控制程序的解释器模式解决方案](https://blog.csdn.net/lovelion/article/details/7713593)
+
+[自定义语言的实现——解释器模式（五）：再谈Context的作用](https://blog.csdn.net/lovelion/article/details/7713602)
+
+[自定义语言的实现——解释器模式（六）：解释器模式总结](https://blog.csdn.net/lovelion/article/details/7713615)
+
 ```aidl
     解释器模式(Interpreter Pattern)：定义一个语言的文法，并且建立一个解释器来解释该语言中的句子，
 这里的“语言”是指使用规定格式和语法的代码。解释器模式是一种类行为型模式。

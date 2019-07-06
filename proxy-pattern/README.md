@@ -1,5 +1,13 @@
 # 代理模式
 
+[代理模式（一）：代理模式概述，代理模式结构与实现](https://blog.csdn.net/lovelion/article/details/8227953)
+
+[代理模式（二）：代理模式应用实例（收费商务信息查询系统）](https://blog.csdn.net/lovelion/article/details/8228042)
+
+[代理模式（三）：远程代理，虚拟代理，缓冲代理](https://blog.csdn.net/lovelion/article/details/8228132)
+
+[代理模式（四）：代理模式效果与适用场景](https://blog.csdn.net/lovelion/article/details/8228156)
+
 ```aidl
     代理模式：给某一个对象提供一个代理或占位符，并由代理对象来控制对原对象的访问。
     

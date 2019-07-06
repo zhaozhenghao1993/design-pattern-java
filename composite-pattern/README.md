@@ -1,5 +1,15 @@
 # 组合模式
 
+[树形结构的处理——组合模式（一）：设计杀毒软件的框架结构](https://blog.csdn.net/lovelion/article/details/7956898)
+
+[树形结构的处理——组合模式（二）：组合模式概述](https://blog.csdn.net/lovelion/article/details/7956908)
+
+[树形结构的处理——组合模式（三）：杀毒软件的框架结构的组合模式解决方案](https://blog.csdn.net/lovelion/article/details/7956931)
+
+[树形结构的处理——组合模式（四）：透明组合模式与安全组合模式](https://blog.csdn.net/lovelion/article/details/7956937)
+
+[树形结构的处理——组合模式（五）：公司组织结构，组合模式总结](https://blog.csdn.net/lovelion/article/details/7956962)
+
 ```aidl
      组合模式(Composite Pattern)：组合多个对象形成树形结构以表示具有“整体—部分”关系的层次结构。
 组合模式对单个对象（即叶子对象）和组合对象（即容器对象）的使用具有一致性，

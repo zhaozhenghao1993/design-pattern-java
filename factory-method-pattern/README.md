@@ -1,5 +1,13 @@
 # 工厂方法模式
 
+[工厂三兄弟之工厂方法模式（一）：日志记录器的设计](https://blog.csdn.net/lovelion/article/details/9306457)
+
+[工厂三兄弟之工厂方法模式（二）：工厂方法模式概述](https://blog.csdn.net/lovelion/article/details/9306745)
+
+[工厂三兄弟之工厂方法模式（三）：日志记录器的工厂方法模式解决方案，反射与配置文件](https://blog.csdn.net/lovelion/article/details/9307137)
+
+[工厂三兄弟之工厂方法模式（四）：重载的工厂方法，工厂方法的隐藏，工厂方法模式总结](https://blog.csdn.net/lovelion/article/details/9307561)
+
 ```aidl
     工厂方法模式(Factory Method Pattern)：定义一个用于创建对象的接口，让子类决定将哪一个类实例化。工厂方法模式让一个类的实例化延迟到其子类。
 工厂方法模式又简称为工厂模式(Factory Pattern)，又可称作虚拟构造器模式(Virtual Constructor Pattern)或多态工厂模式(Polymorphic Factory Pattern)。
